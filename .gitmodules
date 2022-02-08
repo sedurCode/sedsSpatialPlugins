@@ -1,0 +1,3 @@
+[submodule "sedsSpatialLib"]
+	path = sedsSpatialLib
+	url = git@github.com:sedurCode/sedsSpatialLib.git
